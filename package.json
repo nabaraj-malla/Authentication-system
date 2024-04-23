@@ -1,0 +1,22 @@
+{
+  "name": "authenticaton-system",
+  "version": "1.0.0",
+  "description": "My first Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [
+    "authentication"
+  ],
+  "author": "Nabaraj Malla",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0"
+  }
+}
